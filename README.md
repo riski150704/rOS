@@ -137,8 +137,7 @@ Supported By Surabaya Hacker Community
 
 License
 ---------
-Hacker Simulator is BSD-3-Clause Licensed  
-Copyright © 2018-2019 dimankiev (http://aaa114-project.pp.ua)
+Copyright © 2020-2021 riski150704
 
 [1]: https://github.com/riski150704/rOS
 [2]: https://termux.com/
