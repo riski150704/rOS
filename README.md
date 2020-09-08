@@ -60,7 +60,7 @@ Installation (Windows)
 5. Open cmd and use the commands below to launch the game:
    ```
    cd {FOLDER_WHERE_YOU_EXTRACTED_THE_GAME_ARCHIVE}\rOS
-   python rOS.py
+   python rosgame.py
    ```
 6. Game will tell you which modules are not installed if you didn't installed them.
 
