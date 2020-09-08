@@ -1,7 +1,6 @@
-Hacker Simulator 2 (rOS)
+Hacker Simulator (rOS)
 __Discontinued__
 =============
-[Hacker Simulator 2][1] - Reincarnation of [Hacker Simulator 1](https://github.com/dimankiev/hacker_sim)
 
 Written using Python 3.6.
 
@@ -32,9 +31,9 @@ Installation (Android)
    pip install hashlib
    pip install shelve
    ```
-7. Use `git clone https://github.com/dimankiev/rOS.git` command to download the game
+7. Use `git clone https://github.com/riski150704/rOS.git` command to download the game
 
-8. Use `cd rOS` and `python rOS.py` commands to start the game
+8. Use `cd rOS` and `python rosgame.py` commands to start the game
 
 9. Game will tell you which modules are not installed if you didn't installed them.
 
@@ -128,25 +127,20 @@ Requirements
 
 Links
 ----------
-- [dimankiev (Telegram)](https://t.me/dimankiev)
-- [rOS (Telegram)](https://t.me/rOS)
-- [rOS RU (Telegram group)](https://t.me/rOS_ru)
-- [rOS EN (Telegram group)](https://t.me/rOS_en)
-- [rOS support (Telegram)](https://t.me/rOS_bot)
-- [aaa114-project](http://aaa114-project.pp.ua)
-- [dimankiev (E-Mail)](mailto:dimankiev@gmail.com)
+- [Mohamat Riski Fauzi (WhatsApp)](https://wa.me/6283119962824)
+- [Mohamat Riski Fauzi (E-Mail)](mailto:dimankiev@gmail.com)
 
-Alpha-testers
+Supported
 -------------------
-- [Taptrue(Telegram)](https://t.me/taptrue)
+Supported By Surabaya Hacker Community
+- [Website](https://www.surabayahackercommunity.social)
 
 License
 ---------
 Hacker Simulator is BSD-3-Clause Licensed  
 Copyright © 2018-2019 dimankiev (http://aaa114-project.pp.ua)
 
-[1]: https://github.com/dimankiev/rOS
+[1]: https://github.com/riski150704/rOS
 [2]: https://termux.com/
 [3]: https://www.python.org/downloads/windows/
-[4]: https://github.com/dimankiev/rOS/archive/master.zip
-[5]: https://dimankiev.github.io/rOS/
+[4]: https://github.com/riski150704/rOS/archive/master.zip
